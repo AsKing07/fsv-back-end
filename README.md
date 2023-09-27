@@ -57,7 +57,7 @@ The server will run on port 8000 by default. You can change the port in the `app
 ## Frontend
 
 The frontend buid of this application is expected to be located in the `dist` folder. 
-See the full FrontEnd Project with code source here [FullStack Ecommerce App](#)
+See the full FrontEnd Project with code source here [FullStack Ecommerce App](https://github.com/AsKing07/ECommerce-FullStack-App/tree/main/fsv-front-end)
 
 ## Contributing
 
