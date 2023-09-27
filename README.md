@@ -17,8 +17,8 @@ This is a simple node js app project that utilizes a server-side API. The projec
 1. Clone the repository to your local machine:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/AsKing07/fsv-back-end/
+cd fsv-back-end
 ```
 
 2. Install dependencies:
@@ -68,4 +68,4 @@ Feel free to contribute to this project by creating issues or pull requests. You
 This project is licensed under the MIT License - see the [MIT](LICENSE) file for details.
 ```
 
-Make sure to replace `<repository-url>` and `<repository-folder>` with your actual repository URL and folder name. Additionally, update the MongoDB connection variables in the `.env` section as needed.
+
